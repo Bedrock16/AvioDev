@@ -47,7 +47,7 @@
     "zapmongo": "^2.1.0"
   },
     "engines": {
-    "node": "16.5.0"
+    "node": "12.x"
   },
   "scripts": {
     "start": "node src/main.js"
